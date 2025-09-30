@@ -25,7 +25,7 @@ def process_files(transaction_file, sp_file, sb_file, sd_file):
 
 def main():
     st.set_page_config(
-        page_title="Amazon Data Analysis",
+        page_title="Brand Together Prime Day Tool",
         page_icon="📊",
         layout="wide"
     )
